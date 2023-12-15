@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://yuliavrbv.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 15:04:03 +0300</lastBuildDate><atom:link href="http://yuliavrbv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как я устала учиться?</title>
+      <link>http://yuliavrbv.github.io/post/my-first-post/</link>
+      <pubDate>Fri, 24 Nov 2023 15:04:03 +0300</pubDate>
+      
+      <guid>http://yuliavrbv.github.io/post/my-first-post/</guid>
+      <description>Самый главный вопрос: ПОЧЕМУ Я УСТАЛА? Ну не думаю что так все надоело в общем, скорее всего есть причины и вполне конкретные:
+ Авитаминоз и осенняя депрессия, и просто стало слишком лень делать уроки - попей витаминчиков, старайся замечать вокруг себя положительные вещи: кто-то улыбнулся, красивый человек прошел мимо, хороший фильм, хорошая оценка&amp;hellip;. фильтруй негатив, невероятно, но помогает причем сильно  вторая причина Не нравится учитель (учителя) , не можешь найти общий язык с конкретным учителем.</description>
+    </item>
+    
+  </channel>
+</rss>
